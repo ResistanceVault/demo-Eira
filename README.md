@@ -3,5 +3,4 @@ NeoGeo CD cracktro style prod<br>
 ![Intro Screenhot](https://raw.githubusercontent.com/ResistanceVault/demo-Eira/master/Release/neogeo_ani.gif)
 <br>
 <br>
-![Intro cover](https://raw.githubusercontent.com/ResistanceVault/demo-Eira/master/Release/cover.jpg)
-
+[pouet link](http://www.pouet.net/prod.php?which=66723)
